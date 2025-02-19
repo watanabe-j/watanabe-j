@@ -17,7 +17,8 @@ matrices. *Journal of Mathematical Biology*, **86**, 95. doi:
 [10.1007/s00285-023-01930-8](https://doi.org/10.1007/s00285-023-01930-8).
 
   - Watanabe, J. (2024). Distribution theories for genetic line of
-least resistance and evolvability measures. *Journal of Evolutionary Biology*, voae049. doi:
+least resistance and evolvability measures. *Journal of Evolutionary Biology*,
+**37**, 1576&ndash;1590. doi:
 [10.1093/jeb/voae049](https://doi.org/10.1093/jeb/voae049).
 
 <!---
